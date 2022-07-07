@@ -1,0 +1,12 @@
+
+g
+java:S1301ó"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+r
+java:S3077U"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ü§øÉüÿÿÿÿ
+L
+java:S1874£"6Remove this use of "GET_SIGNATURES"; it is deprecated.(¼½¹>
+I
+java:S1874±"2Remove this use of "signatures"; it is deprecated.(Ù”ê©
+=	java:S131ó""Add a default case to this switch.(ýÞ³‹ùÿÿÿÿ
+:
+java:S3398ž"#Move this method into "Connection".(Öª²Ž

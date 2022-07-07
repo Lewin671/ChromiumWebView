@@ -1,0 +1,88 @@
+
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ğ÷•øÿÿÿÿ
+p
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÂŞ›
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü¬“¿ıÿÿÿÿ
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ŒÛáûÿÿÿÿ
+k
+java:S1192…"TUse already-defined constant 'SECURITY_LEVEL' instead of duplicating its value here.(Çê
+Q
+java:S1141ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÀŠ
+D
+java:S1604Â"(Make this anonymous inner class a lambda(’éúıÿÿÿÿ
+D
+java:S1604Ã"(Make this anonymous inner class a lambda(’éúıÿÿÿÿ
+D
+java:S1604Ì"(Make this anonymous inner class a lambda(’éúıÿÿÿÿ
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(’éúıÿÿÿÿ
+D
+java:S1604ß"(Make this anonymous inner class a lambda(’éúıÿÿÿÿ
+D
+java:S1604é"(Make this anonymous inner class a lambda(’éúıÿÿÿÿ
+d
+java:S2259à"M"NullPointerException" will be thrown when invoking method "sessionExists()".(ç¢ƒÍ
+a
+java:S2259è"EA "NullPointerException" could be thrown; "session" is nullable here.(Ìî€•úÿÿÿÿ
+^
+java:S2637Œ"GParameter 1 to this call is marked "@NonNull" but null could be passed.(‚–ù§
+_
+java:S2583¡"CChange this condition so that it does not always evaluate to "true"(å ¥üÿÿÿÿ
+Z
+java:S2583›"CChange this condition so that it does not always evaluate to "true"(Ñ¥ŠÙ
+`
+java:S2583"DChange this condition so that it does not always evaluate to "false"(®×Ùİøÿÿÿÿ
+P
+java:S2864“"4Iterate over the "entrySet" instead of the "keySet".(ºêÒûÿÿÿÿ
+K
+java:S1874 "/Remove this use of "Handler"; it is deprecated.(ŠË»‡ÿÿÿÿÿ
+H
+java:S1135²"2Complete the task associated to this TODO comment.(âÀŸ?
+N
+java:S1135ì"2Complete the task associated to this TODO comment.(¨·Å›úÿÿÿÿ
+P
+java:S1135ñ"2Complete the task associated to this TODO comment.(Ş£×ô8Úíü†›0
+I
+java:S1135„"2Complete the task associated to this TODO comment.(–§š…
+\
+java:S2147­"ECombine this catch with the one at line 299, which has the same body.(ôÌû…
+\
+java:S2147Í"ECombine this catch with the one at line 331, which has the same body.(ôÌû…
+F
+java:S1874å"/Remove this use of "execute"; it is deprecated.(­¾Î±
+K
+java:S1874„"/Remove this use of "release"; it is deprecated.(ÇÜË²üÿÿÿÿ
+i
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ö¨ô¨
+N
+java:S1135Ş"2Complete the task associated to this TODO comment.(¢ƒĞüÿÿÿÿ
+a
+java:S2147õ"ECombine this catch with the one at line 626, which has the same body.(Ì´­¿ûÿÿÿÿ
+H
+java:S1135ì"2Complete the task associated to this TODO comment.(»‹ä
+I
+java:S1135ó"2Complete the task associated to this TODO comment.(ßÔê–
+F
+java:S1874"/Remove this use of "execute"; it is deprecated.(­¾Î±
+\
+java:S2147¼"ECombine this catch with the one at line 698, which has the same body.(ôÌû…
+I
+java:S1135è"2Complete the task associated to this TODO comment.(Ü©¡‹
+a
+java:S2147÷"ECombine this catch with the one at line 757, which has the same body.(İë²¨ûÿÿÿÿ
+P
+java:S4719ô"9Replace charset name argument with StandardCharsets.UTF_8(ğÌÔİ
+\
+java:S1874"@Remove this use of "EVENT_PROVISION_REQUIRED"; it is deprecated.(ëÈ÷—ıÿÿÿÿ
+U
+java:S1874§"9Remove this use of "EVENT_KEY_EXPIRED"; it is deprecated.(Å‡¸šúÿÿÿÿ
+H
+java:S1874¶"1Remove this use of "AsyncTask"; it is deprecated.(…­ïÚ
+a
+java:S1874é"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(„Òüè
+D
+java:S3398—"(Move this method into "PostRequestTask".(Úé”…ûÿÿÿÿ

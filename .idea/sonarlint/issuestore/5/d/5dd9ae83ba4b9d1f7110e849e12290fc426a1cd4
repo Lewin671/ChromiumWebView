@@ -1,0 +1,8 @@
+
+a	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(ò †ëúÿÿÿÿ
+g	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É±¬æ
+V	java:S125"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+U
+java:S1118!":Add a private constructor to hide the implicit public one.(¦È®«ýÿÿÿÿ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(Ì€çþ
+D	java:S108ä")Either remove or fill this block of code.(•Áíîýÿÿÿÿ

@@ -1,0 +1,37 @@
+
+t
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¶õúÿÿÿÿ
+t
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¼Ã³úÿÿÿÿ
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ‡’ıÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604z"(Make this anonymous inner class a lambda(é›Íıÿÿÿÿ
+V
+java:S1854e"@Remove this useless assignment to local variable "sharedRelros".(ÊÂİÉ
+f
+java:S2236g"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(™—µª
+h
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Î¢È
+\
+java:S2147±"ECombine this catch with the one at line 175, which has the same body.(©Ì–ˆ
+u
+java:S2142¯"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+l
+java:S2236ƒ"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(ƒïÛÎÿÿÿÿÿ
+l
+java:S2236—"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(ƒïÛÎÿÿÿÿÿ
+g
+java:S2236"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(™—µª
+l
+java:S2236Ÿ"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(ƒïÛÎÿÿÿÿÿ
+u
+java:S2142È"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+l
+java:S2236Æ"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(ƒïÛÎÿÿÿÿÿ
+g
+java:S2236à"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(™—µª
+2
+java:S3626ˆ"Remove this redundant jump.(ûÁİ…

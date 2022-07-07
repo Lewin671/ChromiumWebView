@@ -1,0 +1,57 @@
+
+p
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‹ƒÉ
+Q	java:S107ä"<Method has 9 parameters, which is greater than 7 authorized.(å÷Å=
+D
+java:S1604š"(Make this anonymous inner class a lambda(âçŞçÿÿÿÿÿ
+>
+java:S1604Ã"(Make this anonymous inner class a lambda(ˆíËK
+D
+java:S1604À"(Make this anonymous inner class a lambda(ÕÏâÿÿÿÿÿ
+>
+java:S1604ò"(Make this anonymous inner class a lambda(ˆíËK
+>
+java:S1604˜"(Make this anonymous inner class a lambda(ˆíËK
+s
+java:S1104["]Make hitTestResultType a static final constant or non-public and provide accessors if needed.(ºùÄª
+x
+java:S1104\"bMake hitTestResultExtraData a static final constant or non-public and provide accessors if needed.(½éÌÚ
+k
+java:S1104_"PMake href a static final constant or non-public and provide accessors if needed.( ˜ÜÖøÿÿÿÿ
+l
+java:S1104`"VMake anchorText a static final constant or non-public and provide accessors if needed.(ôİ°å
+m
+java:S1104a"RMake imgSrc a static final constant or non-public and provide accessors if needed.(±Ï™íøÿÿÿÿ
+N
+java:S1135§"2Complete the task associated to this TODO comment.(ãâ„Ôıÿÿÿÿ
+
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àî­óÿÿÿÿÿ
+˜
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç…¡ã
+8
+java:S1116¯"Remove this empty statement.(ôŸìúÿÿÿÿ
+?
+java:S4274¶"(Replace this assert with a proper check.(¿ïÃ°
+N
+java:S1135¢"2Complete the task associated to this TODO comment.(½êû¨ÿÿÿÿÿ
+N
+java:S1135Á"2Complete the task associated to this TODO comment.(Äéüÿÿÿÿ
+Q
+java:S1172õ"5Remove these unused method parameters "oldl", "oldt".(½­çŞûÿÿÿÿ
+=	java:S131²	""Add a default case to this switch.(“¶“âûÿÿÿÿ
+E
+java:S1874à	".Remove this use of "<init>"; it is deprecated.(¶ˆº™
+`
+java:S1874ç	"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS
+K
+java:S1874ê	"/Remove this use of "execute"; it is deprecated.( å«ûÿÿÿÿ
+b
+java:S1172³"KRemove these unused method parameters "direction", "previouslyFocusedRect".(Í³¦’
+Y
+java:S1172É"BRemove these unused method parameters "changedView", "visibility".(Ì¶¶
+E
+java:S3398û".Move this method into "AwLayoutSizerDelegate".(¢š¼Ö
+M
+java:S3398ô"6Move this method into "AwScrollOffsetManagerDelegate".(˜ù³Ù
+I
+java:S3398”"-Move this method into "AwComponentCallbacks".(ÿ²Êşÿÿÿÿ

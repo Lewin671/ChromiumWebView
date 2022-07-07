@@ -1,0 +1,28 @@
+
+n
+java:S1192å"XDefine a constant instead of duplicating this literal "setEnabledToMatchNative" 3 times.(Ò™„
+g
+java:S1192Ä"KDefine a constant instead of duplicating this literal "TraceEvent" 9 times.(„ñ¤Âüÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(ÁÕøÓşÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ƒ‚™´şÿÿÿÿ
+C
+java:S4274%"(Replace this assert with a proper check.(Ó†õüÿÿÿÿ
+A
+java:S1172."+Remove this unused method parameter "line".(Ş—ó
+a
+java:S2147Å"ECombine this catch with the one at line 195, which has the same body.(¼¯•¶ùÿÿÿÿ
+a
+java:S2147Ç"ECombine this catch with the one at line 195, which has the same body.(¥¨›ıÿÿÿÿ
+\
+java:S2147É"ECombine this catch with the one at line 195, which has the same body.(Å¡ß
+\
+java:S2147Ë"ECombine this catch with the one at line 195, which has the same body.(åşáÿ
+a
+java:S2147Í"ECombine this catch with the one at line 195, which has the same body.(µØ¯®øÿÿÿÿ
+\
+java:S2147æ"ECombine this catch with the one at line 228, which has the same body.(Å¡ß
+\
+java:S2147è"ECombine this catch with the one at line 228, which has the same body.(åşáÿ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(±Ò‚Ï

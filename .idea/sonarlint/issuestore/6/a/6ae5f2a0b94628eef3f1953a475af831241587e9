@@ -1,0 +1,28 @@
+
+p
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(»òëº
+Z
+java:S1226ø"CIntroduce a new variable instead of reusing the parameter "repeat".(±ùúì
+
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§ŠÂÀûÿÿÿÿ
+U
+java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(æëÙû
+\
+java:S2147À"ECombine this catch with the one at line 319, which has the same body.(ùÊÎÜ
+a
+java:S2147Á"ECombine this catch with the one at line 319, which has the same body.(«žÇÕúÿÿÿÿ
+?	java:S108¿")Either remove or fill this block of code.(ëø¿Ç
+?	java:S108À")Either remove or fill this block of code.(ùÊÎÜ
+D	java:S108Á")Either remove or fill this block of code.(«žÇÕúÿÿÿÿ
+O
+java:S1874á"8Remove this use of "VIBRATOR_SERVICE"; it is deprecated.(¢—‚‡
+F
+java:S1874î"/Remove this use of "vibrate"; it is deprecated.(©›ã¦
+F
+java:S1874ú"/Remove this use of "vibrate"; it is deprecated.(ƒ¡úß
+I
+java:S1874³"-Remove this use of "speak"; it is deprecated.(ïàÄãýÿÿÿÿ
+b
+java:S1068C"LRemove this unused "ACCESSIBILITY_SCRIPT_INJECTION_OPTED_OUT" private field.(Œñðž
+a
+java:S1068D"KRemove this unused "ACCESSIBILITY_SCRIPT_INJECTION_PROVIDED" private field.(ì¡òÆ

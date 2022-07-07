@@ -1,0 +1,397 @@
+
+{
+java:S1104"eMake select_dialog_multichoice a static final constant or non-public and provide accessors if needed.(±Ÿ¥¿
+
+java:S1104"fMake select_dialog_singlechoice a static final constant or non-public and provide accessors if needed.(ñ±Š÷øÿÿÿÿ
+‚
+java:S1104"gMake link_preview_overlay_radius a static final constant or non-public and provide accessors if needed.(âç¢¿ÿÿÿÿÿ
+r
+java:S1104"\Make ondemand_overlay a static final constant or non-public and provide accessors if needed.(åçìğ
+f
+java:S1104""PMake ampm a static final constant or non-public and provide accessors if needed.(ÇÓ¦Õ
+m
+java:S1104#"WMake arrow_image a static final constant or non-public and provide accessors if needed.(ËˆˆÈ
+m
+java:S1104$"WMake date_picker a static final constant or non-public and provide accessors if needed.(ë ˆÅ
+|
+java:S1104%"fMake date_time_suggestion_value a static final constant or non-public and provide accessors if needed.(†½¸ê
+
+java:S1104&"fMake date_time_suggestion_label a static final constant or non-public and provide accessors if needed.(ãûŞÂüÿÿÿÿ
+k
+java:S1104'"PMake hour a static final constant or non-public and provide accessors if needed.(éÚıøÿÿÿÿ
+k
+java:S1104("UMake main_text a static final constant or non-public and provide accessors if needed.(’Ó¯ù
+g
+java:S1104)"QMake milli a static final constant or non-public and provide accessors if needed.(åÂº¬
+m
+java:S1104*"RMake minute a static final constant or non-public and provide accessors if needed.(±‹Óıÿÿÿÿ
+i
+java:S1104+"SMake pickers a static final constant or non-public and provide accessors if needed.(èÓìÍ
+r
+java:S1104,"\Make position_in_year a static final constant or non-public and provide accessors if needed.(…‘ñ
+h
+java:S1104-"RMake second a static final constant or non-public and provide accessors if needed.(˜Ø€À
+s
+java:S1104."XMake second_colon a static final constant or non-public and provide accessors if needed.(×áÁÙıÿÿÿÿ
+q
+java:S1104/"VMake second_dot a static final constant or non-public and provide accessors if needed.(ú‰ß’ùÿÿÿÿ
+„
+java:S11040"iMake select_action_menu_select_all a static final constant or non-public and provide accessors if needed.(ıÄúşşÿÿÿÿ
+x
+java:S11041"bMake select_action_menu_cut a static final constant or non-public and provide accessors if needed.(ÍÊÒ´
+~
+java:S11042"cMake select_action_menu_copy a static final constant or non-public and provide accessors if needed.(áŸ—Üıÿÿÿÿ
+z
+java:S11043"dMake select_action_menu_paste a static final constant or non-public and provide accessors if needed.(­áÁ«
+z
+java:S11044"dMake select_action_menu_share a static final constant or non-public and provide accessors if needed.(€ÌÁİ
+
+java:S11045"iMake select_action_menu_web_search a static final constant or non-public and provide accessors if needed.(ÇÑ½
+j
+java:S11046"TMake sub_text a static final constant or non-public and provide accessors if needed.(ø¼‚Ş
+r
+java:S11047"WMake time_picker a static final constant or non-public and provide accessors if needed.(úÑ´˜ÿÿÿÿÿ
+k
+java:S11048"PMake year a static final constant or non-public and provide accessors if needed.(ªîôÔøÿÿÿÿ
+y
+java:S1104<"cMake date_time_picker_dialog a static final constant or non-public and provide accessors if needed.(¿¶„Ø
+v
+java:S1104="`Make date_time_suggestion a static final constant or non-public and provide accessors if needed.(ÿ€’®
+w
+java:S1104>"aMake two_field_date_picker a static final constant or non-public and provide accessors if needed.(ŒéÊú
+€
+java:S1104?"jMake multi_field_time_picker_dialog a static final constant or non-public and provide accessors if needed.(òäŒß
+€
+java:S1104@"eMake validation_message_bubble a static final constant or non-public and provide accessors if needed.(ŞĞì¸ıÿÿÿÿ
+y
+java:S1104D"^Make select_action_menu a static final constant or non-public and provide accessors if needed.(àı×Äùÿÿÿÿ
+|
+java:S1104H"fMake accessibility_content_view a static final constant or non-public and provide accessors if needed.(Ç¾šë
+†
+java:S1104I"kMake accessibility_date_picker_month a static final constant or non-public and provide accessors if needed.(íœÿÿùÿÿÿÿ
+
+java:S1104J"jMake accessibility_date_picker_week a static final constant or non-public and provide accessors if needed.(ÉÏ
+€
+java:S1104K"jMake accessibility_date_picker_year a static final constant or non-public and provide accessors if needed.(³™¥
+‰
+java:S1104L"nMake accessibility_datetime_picker_date a static final constant or non-public and provide accessors if needed.(¦‘—ışÿÿÿÿ
+‰
+java:S1104M"nMake accessibility_datetime_picker_time a static final constant or non-public and provide accessors if needed.(œ¥Ø·ıÿÿÿÿ
+q
+java:S1104N"[Make actionbar_share a static final constant or non-public and provide accessors if needed.(€Œ›å
+{
+java:S1104O"`Make actionbar_web_search a static final constant or non-public and provide accessors if needed.(í»²Ïüÿÿÿÿ
+
+java:S1104P"dMake date_picker_dialog_clear a static final constant or non-public and provide accessors if needed.(¦‡“¼ûÿÿÿÿ
+x
+java:S1104Q"bMake date_picker_dialog_set a static final constant or non-public and provide accessors if needed.(ø³ëÿ
+
+java:S1104R"dMake date_picker_dialog_title a static final constant or non-public and provide accessors if needed.(õÄæ”ıÿÿÿÿ
+‡
+java:S1104S"qMake date_picker_dialog_other_button_label a static final constant or non-public and provide accessors if needed.(Ì¥›ª
+„
+java:S1104T"iMake date_time_picker_dialog_title a static final constant or non-public and provide accessors if needed.(âÏ×Âøÿÿÿÿ
+{
+java:S1104U"eMake media_player_error_button a static final constant or non-public and provide accessors if needed.(Ñ‡¢•
+œ
+java:S1104V"€Make media_player_error_text_invalid_progressive_playback a static final constant or non-public and provide accessors if needed.(êî¹èÿÿÿÿÿ
+†
+java:S1104W"kMake media_player_error_text_unknown a static final constant or non-public and provide accessors if needed.(ò¨®©ùÿÿÿÿ
+
+java:S1104X"dMake media_player_error_title a static final constant or non-public and provide accessors if needed.(îÄëÿÿÿÿÿ
+|
+java:S1104Y"fMake media_player_loading_video a static final constant or non-public and provide accessors if needed.(çæŞ–
+€
+java:S1104Z"eMake month_picker_dialog_title a static final constant or non-public and provide accessors if needed.(Á’¾Õúÿÿÿÿ
+v
+java:S1104["`Make profiler_error_toast a static final constant or non-public and provide accessors if needed.(Î¶¨
+€
+java:S1104\"eMake profiler_no_storage_toast a static final constant or non-public and provide accessors if needed.(êÅï©úÿÿÿÿ
+}
+java:S1104]"bMake profiler_started_toast a static final constant or non-public and provide accessors if needed.(·à×Çúÿÿÿÿ
+}
+java:S1104^"bMake profiler_stopped_toast a static final constant or non-public and provide accessors if needed.(ÌÊĞçüÿÿÿÿ
+v
+java:S1104_"aMake time_picker_dialog_am a static final constant or non-public and provide accessors if needed.(“İ÷f
+Š
+java:S1104`"tMake time_picker_dialog_hour_minute_separator a static final constant or non-public and provide accessors if needed.(Çµîã
+Œ
+java:S1104a"vMake time_picker_dialog_minute_second_separator a static final constant or non-public and provide accessors if needed.(İ¬à²
+
+java:S1104b"yMake time_picker_dialog_second_subsecond_separator a static final constant or non-public and provide accessors if needed.(¸èÃÓ
+|
+java:S1104c"aMake time_picker_dialog_pm a static final constant or non-public and provide accessors if needed.(‹Ö…­ıÿÿÿÿ
+y
+java:S1104d"dMake time_picker_dialog_title a static final constant or non-public and provide accessors if needed.(«ƒˆ}
+
+java:S1104e"dMake week_picker_dialog_title a static final constant or non-public and provide accessors if needed.(ğ¿”ÿÿÿÿÿ
+r
+java:S1104i"]Make SelectPopupDialog a static final constant or non-public and provide accessors if needed.(È£'
+U
+java:S1444"?Make this "public static select_dialog_multichoice" field final(±Ÿ¥¿
+[
+java:S1444"@Make this "public static select_dialog_singlechoice" field final(ñ±Š÷øÿÿÿÿ
+\
+java:S1444"AMake this "public static link_preview_overlay_radius" field final(âç¢¿ÿÿÿÿÿ
+L
+java:S1444"6Make this "public static ondemand_overlay" field final(åçìğ
+@
+java:S1444""*Make this "public static ampm" field final(ÇÓ¦Õ
+G
+java:S1444#"1Make this "public static arrow_image" field final(ËˆˆÈ
+G
+java:S1444$"1Make this "public static date_picker" field final(ë ˆÅ
+V
+java:S1444%"@Make this "public static date_time_suggestion_value" field final(†½¸ê
+[
+java:S1444&"@Make this "public static date_time_suggestion_label" field final(ãûŞÂüÿÿÿÿ
+E
+java:S1444'"*Make this "public static hour" field final(éÚıøÿÿÿÿ
+E
+java:S1444("/Make this "public static main_text" field final(’Ó¯ù
+A
+java:S1444)"+Make this "public static milli" field final(åÂº¬
+G
+java:S1444*",Make this "public static minute" field final(±‹Óıÿÿÿÿ
+C
+java:S1444+"-Make this "public static pickers" field final(èÓìÍ
+L
+java:S1444,"6Make this "public static position_in_year" field final(…‘ñ
+B
+java:S1444-",Make this "public static second" field final(˜Ø€À
+M
+java:S1444."2Make this "public static second_colon" field final(×áÁÙıÿÿÿÿ
+K
+java:S1444/"0Make this "public static second_dot" field final(ú‰ß’ùÿÿÿÿ
+^
+java:S14440"CMake this "public static select_action_menu_select_all" field final(ıÄúşşÿÿÿÿ
+R
+java:S14441"<Make this "public static select_action_menu_cut" field final(ÍÊÒ´
+X
+java:S14442"=Make this "public static select_action_menu_copy" field final(áŸ—Üıÿÿÿÿ
+T
+java:S14443">Make this "public static select_action_menu_paste" field final(­áÁ«
+T
+java:S14444">Make this "public static select_action_menu_share" field final(€ÌÁİ
+Y
+java:S14445"CMake this "public static select_action_menu_web_search" field final(ÇÑ½
+D
+java:S14446".Make this "public static sub_text" field final(ø¼‚Ş
+L
+java:S14447"1Make this "public static time_picker" field final(úÑ´˜ÿÿÿÿÿ
+E
+java:S14448"*Make this "public static year" field final(ªîôÔøÿÿÿÿ
+S
+java:S1444<"=Make this "public static date_time_picker_dialog" field final(¿¶„Ø
+P
+java:S1444=":Make this "public static date_time_suggestion" field final(ÿ€’®
+Q
+java:S1444>";Make this "public static two_field_date_picker" field final(ŒéÊú
+Z
+java:S1444?"DMake this "public static multi_field_time_picker_dialog" field final(òäŒß
+Z
+java:S1444@"?Make this "public static validation_message_bubble" field final(ŞĞì¸ıÿÿÿÿ
+S
+java:S1444D"8Make this "public static select_action_menu" field final(àı×Äùÿÿÿÿ
+V
+java:S1444H"@Make this "public static accessibility_content_view" field final(Ç¾šë
+`
+java:S1444I"EMake this "public static accessibility_date_picker_month" field final(íœÿÿùÿÿÿÿ
+Y
+java:S1444J"DMake this "public static accessibility_date_picker_week" field final(ÉÏ
+Z
+java:S1444K"DMake this "public static accessibility_date_picker_year" field final(³™¥
+c
+java:S1444L"HMake this "public static accessibility_datetime_picker_date" field final(¦‘—ışÿÿÿÿ
+c
+java:S1444M"HMake this "public static accessibility_datetime_picker_time" field final(œ¥Ø·ıÿÿÿÿ
+K
+java:S1444N"5Make this "public static actionbar_share" field final(€Œ›å
+U
+java:S1444O":Make this "public static actionbar_web_search" field final(í»²Ïüÿÿÿÿ
+Y
+java:S1444P">Make this "public static date_picker_dialog_clear" field final(¦‡“¼ûÿÿÿÿ
+R
+java:S1444Q"<Make this "public static date_picker_dialog_set" field final(ø³ëÿ
+Y
+java:S1444R">Make this "public static date_picker_dialog_title" field final(õÄæ”ıÿÿÿÿ
+a
+java:S1444S"KMake this "public static date_picker_dialog_other_button_label" field final(Ì¥›ª
+^
+java:S1444T"CMake this "public static date_time_picker_dialog_title" field final(âÏ×Âøÿÿÿÿ
+U
+java:S1444U"?Make this "public static media_player_error_button" field final(Ñ‡¢•
+u
+java:S1444V"ZMake this "public static media_player_error_text_invalid_progressive_playback" field final(êî¹èÿÿÿÿÿ
+`
+java:S1444W"EMake this "public static media_player_error_text_unknown" field final(ò¨®©ùÿÿÿÿ
+Y
+java:S1444X">Make this "public static media_player_error_title" field final(îÄëÿÿÿÿÿ
+V
+java:S1444Y"@Make this "public static media_player_loading_video" field final(çæŞ–
+Z
+java:S1444Z"?Make this "public static month_picker_dialog_title" field final(Á’¾Õúÿÿÿÿ
+P
+java:S1444[":Make this "public static profiler_error_toast" field final(Î¶¨
+Z
+java:S1444\"?Make this "public static profiler_no_storage_toast" field final(êÅï©úÿÿÿÿ
+W
+java:S1444]"<Make this "public static profiler_started_toast" field final(·à×Çúÿÿÿÿ
+W
+java:S1444^"<Make this "public static profiler_stopped_toast" field final(ÌÊĞçüÿÿÿÿ
+P
+java:S1444_";Make this "public static time_picker_dialog_am" field final(“İ÷f
+d
+java:S1444`"NMake this "public static time_picker_dialog_hour_minute_separator" field final(Çµîã
+f
+java:S1444a"PMake this "public static time_picker_dialog_minute_second_separator" field final(İ¬à²
+i
+java:S1444b"SMake this "public static time_picker_dialog_second_subsecond_separator" field final(¸èÃÓ
+V
+java:S1444c";Make this "public static time_picker_dialog_pm" field final(‹Ö…­ıÿÿÿÿ
+S
+java:S1444d">Make this "public static time_picker_dialog_title" field final(«ƒˆ}
+Y
+java:S1444e">Make this "public static week_picker_dialog_title" field final(ğ¿”ÿÿÿÿÿ
+L
+java:S1444i"7Make this "public static SelectPopupDialog" field final(È£'
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ğíõªúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙÁöŠûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Êõ”üÿÿÿÿ
+b	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆîÀß
+g	java:S101;"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üŸµäûÿÿÿÿ
+g	java:S101C"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷¬ì®ûÿÿÿÿ
+g	java:S101G"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ©ÖÀüÿÿÿÿ
+g	java:S101h"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªì‹îúÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ä
+z
+java:S3008"dRename this field "select_dialog_multichoice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ÿ¥¿
+€
+java:S3008"eRename this field "select_dialog_singlechoice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ±Š÷øÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ğíõªúÿÿÿÿ
+
+java:S3008"fRename this field "link_preview_overlay_radius" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âç¢¿ÿÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÙÁöŠûÿÿÿÿ
+q
+java:S3008"[Rename this field "ondemand_overlay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åçìğ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(»Êõ”üÿÿÿÿ
+l
+java:S3008#"VRename this field "arrow_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËˆˆÈ
+l
+java:S3008$"VRename this field "date_picker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë ˆÅ
+{
+java:S3008%"eRename this field "date_time_suggestion_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†½¸ê
+€
+java:S3008&"eRename this field "date_time_suggestion_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãûŞÂüÿÿÿÿ
+j
+java:S3008("TRename this field "main_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ó¯ù
+q
+java:S3008,"[Rename this field "position_in_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‘ñ
+r
+java:S3008."WRename this field "second_colon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×áÁÙıÿÿÿÿ
+p
+java:S3008/"URename this field "second_dot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‰ß’ùÿÿÿÿ
+ƒ
+java:S30080"hRename this field "select_action_menu_select_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÄúşşÿÿÿÿ
+w
+java:S30081"aRename this field "select_action_menu_cut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÊÒ´
+}
+java:S30082"bRename this field "select_action_menu_copy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŸ—Üıÿÿÿÿ
+y
+java:S30083"cRename this field "select_action_menu_paste" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­áÁ«
+y
+java:S30084"cRename this field "select_action_menu_share" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÌÁİ
+~
+java:S30085"hRename this field "select_action_menu_web_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÑ½
+i
+java:S30086"SRename this field "sub_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¼‚Ş
+q
+java:S30087"VRename this field "time_picker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÑ´˜ÿÿÿÿÿ
+P
+java:S1118!":Add a private constructor to hide the implicit public one.(ÆîÀß
+x
+java:S3008<"bRename this field "date_time_picker_dialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¶„Ø
+u
+java:S3008="_Rename this field "date_time_suggestion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ€’®
+v
+java:S3008>"`Rename this field "two_field_date_picker" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒéÊú
+
+java:S3008?"iRename this field "multi_field_time_picker_dialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òäŒß
+
+java:S3008@"dRename this field "validation_message_bubble" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞĞì¸ıÿÿÿÿ
+U
+java:S1118;":Add a private constructor to hide the implicit public one.(üŸµäûÿÿÿÿ
+x
+java:S3008D"]Rename this field "select_action_menu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àı×Äùÿÿÿÿ
+U
+java:S1118C":Add a private constructor to hide the implicit public one.(÷¬ì®ûÿÿÿÿ
+{
+java:S3008H"eRename this field "accessibility_content_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¾šë
+…
+java:S3008I"jRename this field "accessibility_date_picker_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íœÿÿùÿÿÿÿ
+~
+java:S3008J"iRename this field "accessibility_date_picker_week" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÏ
+
+java:S3008K"iRename this field "accessibility_date_picker_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³™¥
+ˆ
+java:S3008L"mRename this field "accessibility_datetime_picker_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‘—ışÿÿÿÿ
+ˆ
+java:S3008M"mRename this field "accessibility_datetime_picker_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥Ø·ıÿÿÿÿ
+p
+java:S3008N"ZRename this field "actionbar_share" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Œ›å
+z
+java:S3008O"_Rename this field "actionbar_web_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í»²Ïüÿÿÿÿ
+~
+java:S3008P"cRename this field "date_picker_dialog_clear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‡“¼ûÿÿÿÿ
+w
+java:S3008Q"aRename this field "date_picker_dialog_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø³ëÿ
+~
+java:S3008R"cRename this field "date_picker_dialog_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÄæ”ıÿÿÿÿ
+†
+java:S3008S"pRename this field "date_picker_dialog_other_button_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¥›ª
+ƒ
+java:S3008T"hRename this field "date_time_picker_dialog_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÏ×Âøÿÿÿÿ
+z
+java:S3008U"dRename this field "media_player_error_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‡¢•
+š
+java:S3008V"Rename this field "media_player_error_text_invalid_progressive_playback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êî¹èÿÿÿÿÿ
+…
+java:S3008W"jRename this field "media_player_error_text_unknown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¨®©ùÿÿÿÿ
+~
+java:S3008X"cRename this field "media_player_error_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÄëÿÿÿÿÿ
+{
+java:S3008Y"eRename this field "media_player_loading_video" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çæŞ–
+
+java:S3008Z"dRename this field "month_picker_dialog_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’¾Õúÿÿÿÿ
+u
+java:S3008["_Rename this field "profiler_error_toast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¶¨
+
+java:S3008\"dRename this field "profiler_no_storage_toast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÅï©úÿÿÿÿ
+|
+java:S3008]"aRename this field "profiler_started_toast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·à×Çúÿÿÿÿ
+|
+java:S3008^"aRename this field "profiler_stopped_toast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÊĞçüÿÿÿÿ
+u
+java:S3008_"`Rename this field "time_picker_dialog_am" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“İ÷f
+‰
+java:S3008`"sRename this field "time_picker_dialog_hour_minute_separator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çµîã
+‹
+java:S3008a"uRename this field "time_picker_dialog_minute_second_separator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¬à²
+
+java:S3008b"xRename this field "time_picker_dialog_second_subsecond_separator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸èÃÓ
+{
+java:S3008c"`Rename this field "time_picker_dialog_pm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ö…­ıÿÿÿÿ
+x
+java:S3008d"cRename this field "time_picker_dialog_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ƒˆ}
+~
+java:S3008e"cRename this field "week_picker_dialog_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¿”ÿÿÿÿÿ
+U
+java:S1118G":Add a private constructor to hide the implicit public one.(ˆ©ÖÀüÿÿÿÿ
+q
+java:S3008i"\Rename this field "SelectPopupDialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È£'
+U
+java:S1118h":Add a private constructor to hide the implicit public one.(ªì‹îúÿÿÿÿ

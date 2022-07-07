@@ -1,0 +1,85 @@
+
+K
+java:S3740¸"/Provide the parametrized type for this generic.(ï£œİşÿÿÿÿ
+t
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù‚§øÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÑÜ¦
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(òØòµıÿÿÿÿ
+u
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¶‡Äûÿÿÿÿ
+X	java:S107¶"=Method has 10 parameters, which is greater than 7 authorized.(Èù°²şÿÿÿÿ
+?
+java:S1604‚"(Make this anonymous inner class a lambda(©ëÈá
+?
+java:S1604"(Make this anonymous inner class a lambda(©ëÈá
+?
+java:S1604˜"(Make this anonymous inner class a lambda(£ûãû
+?
+java:S1604´"(Make this anonymous inner class a lambda(£ûãû
+?
+java:S1604§"(Make this anonymous inner class a lambda(‹‡­¢
+?
+java:S1604Ú"(Make this anonymous inner class a lambda(²¯ç
+g
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ãÁğ™øÿÿÿÿ
+‰
+java:S1450ß"mRemove the "mDidSignalVSyncUsingInputEvent" field and declare it as a local variable in the relevant methods.(æ‘ıÿÿÿÿÿÿ
+
+java:S1450·"cRemove the "mWebContentsObserver" field and declare it as a local variable in the relevant methods.(ò²•µÿÿÿÿÿ
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ†”ıùÿÿÿÿ
+d	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¿®
+d	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥óòœ
+i	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãİ²–ıÿÿÿÿ
+i	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¤îÉúÿÿÿÿ
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‘®ıÿÿÿÿ
+?
+java:S4274”"(Replace this assert with a proper check.(ûšÎ
+N
+java:S1135©"2Complete the task associated to this TODO comment.(µ­³ûÿÿÿÿ
+K
+java:S1874ğ"/Remove this use of "Handler"; it is deprecated.(ÿîÅõÿÿÿÿÿ
+I
+java:S1135ú"2Complete the task associated to this TODO comment.(Œßíó
+˜
+java:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š”˜—
+
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾“¤—şÿÿÿÿ
+˜
+java:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô­ğª
+N
+java:S1135"2Complete the task associated to this TODO comment.(®™Íºüÿÿÿÿ
+C
+java:S1125Ê"'Remove the unnecessary boolean literal.(õ¢ˆ¿ÿÿÿÿÿ
+I
+java:S1135"2Complete the task associated to this TODO comment.(ˆû†½
+C
+java:S1125Š	"'Remove the unnecessary boolean literal.(òÃ“óüÿÿÿÿ
+=	java:S131""Add a default case to this switch.(ãÁğ™øÿÿÿÿ
+N
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(óÆ‘µúÿÿÿÿ
+P
+java:S1874¦"9Remove this use of "getDefaultDisplay"; it is deprecated.(ö—å
+n
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(âå³îıÿÿÿÿ
+U
+java:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(­Ÿ
+U
+java:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(­Ÿ
+]
+java:S1126Ğ"AReplace this if-then-else statement by a single return statement.(Ã…«¦øÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ãç±Ü
+N
+java:S1135ª"2Complete the task associated to this TODO comment.(ÅÊî¨øÿÿÿÿ
+N
+java:S1874½"8Remove this use of "isWatchingCursor"; it is deprecated.(É‚D
+J
+java:S1874À"4Remove this use of "updateCursor"; it is deprecated.(Ê†é
+]
+java:S2147â"FCombine this catch with the one at line 3040, which has the same body.(Å¡ß
+C
+java:S3011Í",This accessibility update should be removed.(˜ÂÓ˜
+F
+java:S1874Ò"/Remove this use of "Handler"; it is deprecated.(óàÂ˜

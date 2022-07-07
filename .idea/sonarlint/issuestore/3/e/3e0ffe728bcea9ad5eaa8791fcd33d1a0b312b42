@@ -1,0 +1,288 @@
+
+ƒ
+java:S1104"mMake copy_to_clipboard_failure_message a static final constant or non-public and provide accessors if needed.(ÙéËˆ
+w
+java:S1104"\Make low_memory_error a static final constant or non-public and provide accessors if needed.(ÜÜÿ’þÿÿÿÿ
+t
+java:S1104"^Make opening_file_error a static final constant or non-public and provide accessors if needed.(Åÿ²ø
+
+java:S1104"dMake color_picker_button_more a static final constant or non-public and provide accessors if needed.(Çí²¹øÿÿÿÿ
+r
+java:S1104"\Make color_picker_hue a static final constant or non-public and provide accessors if needed.(§ÊÝ
+~
+java:S1104"cMake color_picker_saturation a static final constant or non-public and provide accessors if needed.(¹¶ÿÿÿÿÿ
+y
+java:S1104"^Make color_picker_value a static final constant or non-public and provide accessors if needed.(‰ØŠøÿÿÿÿ
+y
+java:S1104"cMake color_picker_button_set a static final constant or non-public and provide accessors if needed.(É•Ð„
+
+java:S1104"fMake color_picker_button_cancel a static final constant or non-public and provide accessors if needed.(œùœíÿÿÿÿÿ
+€
+java:S1104"eMake color_picker_dialog_title a static final constant or non-public and provide accessors if needed.(ò“„™ùÿÿÿÿ
+y
+java:S1104"cMake color_picker_button_red a static final constant or non-public and provide accessors if needed.(ŠÒê¤
+
+java:S1104"dMake color_picker_button_cyan a static final constant or non-public and provide accessors if needed.(‹Ø·¼þÿÿÿÿ
+
+java:S1104"dMake color_picker_button_blue a static final constant or non-public and provide accessors if needed.(§ÌÛøÿÿÿÿ
+€
+java:S1104 "eMake color_picker_button_green a static final constant or non-public and provide accessors if needed.(›œýüøÿÿÿÿ
+}
+java:S1104!"gMake color_picker_button_magenta a static final constant or non-public and provide accessors if needed.(‘†þÿ
+
+java:S1104""fMake color_picker_button_yellow a static final constant or non-public and provide accessors if needed.(áÑ§²ÿÿÿÿÿ
+{
+java:S1104#"eMake color_picker_button_black a static final constant or non-public and provide accessors if needed.(âž ’
+€
+java:S1104$"eMake color_picker_button_white a static final constant or non-public and provide accessors if needed.(÷è–Œûÿÿÿÿ
+p
+java:S1104'"ZMake autofill_label a static final constant or non-public and provide accessors if needed.(×¢ÅÉ
+w
+java:S1104("aMake autofill_popup_window a static final constant or non-public and provide accessors if needed.(Ä‚Í¹
+x
+java:S1104)"]Make autofill_sublabel a static final constant or non-public and provide accessors if needed.(•ØÕÄüÿÿÿÿ
+z
+java:S1104*"_Make selected_color_view a static final constant or non-public and provide accessors if needed.(×ùžÔøÿÿÿÿ
+f
+java:S1104+"QMake title a static final constant or non-public and provide accessors if needed.(†³»O
+t
+java:S1104,"^Make more_colors_button a static final constant or non-public and provide accessors if needed.(âžÐÇ
+|
+java:S1104-"aMake color_picker_advanced a static final constant or non-public and provide accessors if needed.(´É‰÷øÿÿÿÿ
+z
+java:S1104."_Make color_picker_simple a static final constant or non-public and provide accessors if needed.(Ÿ®éúùÿÿÿÿ
+u
+java:S1104/"_Make color_button_swatch a static final constant or non-public and provide accessors if needed.(¯¬Ñ™
+€
+java:S11040"eMake more_colors_button_border a static final constant or non-public and provide accessors if needed.(öò¤Èúÿÿÿÿ
+|
+java:S11041"fMake color_picker_simple_border a static final constant or non-public and provide accessors if needed.(†ì’¦
+o
+java:S11042"TMake gradient a static final constant or non-public and provide accessors if needed.(‰Î„áøÿÿÿÿ
+e
+java:S11043"PMake text a static final constant or non-public and provide accessors if needed.(Çñ×
+j
+java:S11044"TMake seek_bar a static final constant or non-public and provide accessors if needed.(…ŒŽº
+t
+java:S11047"YMake autofill_text a static final constant or non-public and provide accessors if needed.(çÄðŠùÿÿÿÿ
+€
+java:S11048"eMake color_picker_dialog_title a static final constant or non-public and provide accessors if needed.(ò“„™ùÿÿÿÿ
+‚
+java:S11049"gMake color_picker_dialog_content a static final constant or non-public and provide accessors if needed.(¼ã´Íýÿÿÿÿ
+
+java:S1104:"kMake color_picker_advanced_component a static final constant or non-public and provide accessors if needed.(…ç÷Þ
+y
+java:S1104="cMake color_button_background a static final constant or non-public and provide accessors if needed.(ÈÀÃ’
+„
+java:S1104>"oMake color_picker_advanced_select_handle a static final constant or non-public and provide accessors if needed.(¾©èR
+z
+java:S1104A"_Make AutofillPopupWindow a static final constant or non-public and provide accessors if needed.(±’¨„üÿÿÿÿ
+}
+java:S1104D"gMake autofill_dark_divider_color a static final constant or non-public and provide accessors if needed.(µÊê·
+x
+java:S1104E"bMake autofill_divider_color a static final constant or non-public and provide accessors if needed.(›Üï¹
+{
+java:S1104F"eMake color_picker_border_color a static final constant or non-public and provide accessors if needed.(§¯„
+{
+java:S1104I"`Make autofill_text_height a static final constant or non-public and provide accessors if needed.(Ä†öÿÿÿÿÿ
+ƒ
+java:S1104J"hMake autofill_text_divider_height a static final constant or non-public and provide accessors if needed.(–ãÍŸýÿÿÿÿ
+u
+java:S1104K"_Make color_button_height a static final constant or non-public and provide accessors if needed.(ý‚òÎ
+]
+java:S1444"GMake this "public static copy_to_clipboard_failure_message" field final(ÙéËˆ
+Q
+java:S1444"6Make this "public static low_memory_error" field final(ÜÜÿ’þÿÿÿÿ
+N
+java:S1444"8Make this "public static opening_file_error" field final(Åÿ²ø
+Y
+java:S1444">Make this "public static color_picker_button_more" field final(Çí²¹øÿÿÿÿ
+L
+java:S1444"6Make this "public static color_picker_hue" field final(§ÊÝ
+X
+java:S1444"=Make this "public static color_picker_saturation" field final(¹¶ÿÿÿÿÿ
+S
+java:S1444"8Make this "public static color_picker_value" field final(‰ØŠøÿÿÿÿ
+S
+java:S1444"=Make this "public static color_picker_button_set" field final(É•Ð„
+[
+java:S1444"@Make this "public static color_picker_button_cancel" field final(œùœíÿÿÿÿÿ
+Z
+java:S1444"?Make this "public static color_picker_dialog_title" field final(ò“„™ùÿÿÿÿ
+S
+java:S1444"=Make this "public static color_picker_button_red" field final(ŠÒê¤
+Y
+java:S1444">Make this "public static color_picker_button_cyan" field final(‹Ø·¼þÿÿÿÿ
+Y
+java:S1444">Make this "public static color_picker_button_blue" field final(§ÌÛøÿÿÿÿ
+Z
+java:S1444 "?Make this "public static color_picker_button_green" field final(›œýüøÿÿÿÿ
+W
+java:S1444!"AMake this "public static color_picker_button_magenta" field final(‘†þÿ
+[
+java:S1444""@Make this "public static color_picker_button_yellow" field final(áÑ§²ÿÿÿÿÿ
+U
+java:S1444#"?Make this "public static color_picker_button_black" field final(âž ’
+Z
+java:S1444$"?Make this "public static color_picker_button_white" field final(÷è–Œûÿÿÿÿ
+J
+java:S1444'"4Make this "public static autofill_label" field final(×¢ÅÉ
+Q
+java:S1444(";Make this "public static autofill_popup_window" field final(Ä‚Í¹
+R
+java:S1444)"7Make this "public static autofill_sublabel" field final(•ØÕÄüÿÿÿÿ
+T
+java:S1444*"9Make this "public static selected_color_view" field final(×ùžÔøÿÿÿÿ
+@
+java:S1444+"+Make this "public static title" field final(†³»O
+N
+java:S1444,"8Make this "public static more_colors_button" field final(âžÐÇ
+V
+java:S1444-";Make this "public static color_picker_advanced" field final(´É‰÷øÿÿÿÿ
+T
+java:S1444."9Make this "public static color_picker_simple" field final(Ÿ®éúùÿÿÿÿ
+O
+java:S1444/"9Make this "public static color_button_swatch" field final(¯¬Ñ™
+Z
+java:S14440"?Make this "public static more_colors_button_border" field final(öò¤Èúÿÿÿÿ
+V
+java:S14441"@Make this "public static color_picker_simple_border" field final(†ì’¦
+I
+java:S14442".Make this "public static gradient" field final(‰Î„áøÿÿÿÿ
+?
+java:S14443"*Make this "public static text" field final(Çñ×
+D
+java:S14444".Make this "public static seek_bar" field final(…ŒŽº
+N
+java:S14447"3Make this "public static autofill_text" field final(çÄðŠùÿÿÿÿ
+Z
+java:S14448"?Make this "public static color_picker_dialog_title" field final(ò“„™ùÿÿÿÿ
+\
+java:S14449"AMake this "public static color_picker_dialog_content" field final(¼ã´Íýÿÿÿÿ
+[
+java:S1444:"EMake this "public static color_picker_advanced_component" field final(…ç÷Þ
+S
+java:S1444="=Make this "public static color_button_background" field final(ÈÀÃ’
+^
+java:S1444>"IMake this "public static color_picker_advanced_select_handle" field final(¾©èR
+T
+java:S1444A"9Make this "public static AutofillPopupWindow" field final(±’¨„üÿÿÿÿ
+W
+java:S1444D"AMake this "public static autofill_dark_divider_color" field final(µÊê·
+R
+java:S1444E"<Make this "public static autofill_divider_color" field final(›Üï¹
+U
+java:S1444F"?Make this "public static color_picker_border_color" field final(§¯„
+U
+java:S1444I":Make this "public static autofill_text_height" field final(Ä†öÿÿÿÿÿ
+]
+java:S1444J"BMake this "public static autofill_text_divider_height" field final(–ãÍŸýÿÿÿÿ
+O
+java:S1444K"9Make this "public static color_button_height" field final(ý‚òÎ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ©ÖÀüÿÿÿÿ
+b	java:S101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆîÀß
+g	java:S1016"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üŸµäûÿÿÿÿ
+g	java:S101<"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»Êõ”üÿÿÿÿ
+g	java:S101@"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªì‹îúÿÿÿÿ
+g	java:S101C"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä±†¬úÿÿÿÿ
+g	java:S101H"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙÁöŠûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ä
+‚
+java:S3008"lRename this field "copy_to_clipboard_failure_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙéËˆ
+v
+java:S3008"[Rename this field "low_memory_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÜÿ’þÿÿÿÿ
+s
+java:S3008"]Rename this field "opening_file_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åÿ²ø
+~
+java:S3008"cRename this field "color_picker_button_more" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çí²¹øÿÿÿÿ
+q
+java:S3008"[Rename this field "color_picker_hue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÊÝ
+}
+java:S3008"bRename this field "color_picker_saturation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¶ÿÿÿÿÿ
+x
+java:S3008"]Rename this field "color_picker_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ØŠøÿÿÿÿ
+x
+java:S3008"bRename this field "color_picker_button_set" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É•Ð„
+€
+java:S3008"eRename this field "color_picker_button_cancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œùœíÿÿÿÿÿ
+
+java:S3008"dRename this field "color_picker_dialog_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò“„™ùÿÿÿÿ
+x
+java:S3008"bRename this field "color_picker_button_red" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÒê¤
+~
+java:S3008"cRename this field "color_picker_button_cyan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ø·¼þÿÿÿÿ
+~
+java:S3008"cRename this field "color_picker_button_blue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÌÛøÿÿÿÿ
+
+java:S3008 "dRename this field "color_picker_button_green" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›œýüøÿÿÿÿ
+|
+java:S3008!"fRename this field "color_picker_button_magenta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘†þÿ
+€
+java:S3008""eRename this field "color_picker_button_yellow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÑ§²ÿÿÿÿÿ
+z
+java:S3008#"dRename this field "color_picker_button_black" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âž ’
+
+java:S3008$"dRename this field "color_picker_button_white" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷è–Œûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ˆ©ÖÀüÿÿÿÿ
+o
+java:S3008'"YRename this field "autofill_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¢ÅÉ
+v
+java:S3008("`Rename this field "autofill_popup_window" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‚Í¹
+w
+java:S3008)"\Rename this field "autofill_sublabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ØÕÄüÿÿÿÿ
+y
+java:S3008*"^Rename this field "selected_color_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ùžÔøÿÿÿÿ
+s
+java:S3008,"]Rename this field "more_colors_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âžÐÇ
+{
+java:S3008-"`Rename this field "color_picker_advanced" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´É‰÷øÿÿÿÿ
+y
+java:S3008."^Rename this field "color_picker_simple" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ®éúùÿÿÿÿ
+t
+java:S3008/"^Rename this field "color_button_swatch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¬Ñ™
+
+java:S30080"dRename this field "more_colors_button_border" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öò¤Èúÿÿÿÿ
+{
+java:S30081"eRename this field "color_picker_simple_border" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ì’¦
+i
+java:S30084"SRename this field "seek_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ŒŽº
+P
+java:S1118&":Add a private constructor to hide the implicit public one.(ÆîÀß
+s
+java:S30087"XRename this field "autofill_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÄðŠùÿÿÿÿ
+
+java:S30088"dRename this field "color_picker_dialog_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò“„™ùÿÿÿÿ
+
+java:S30089"fRename this field "color_picker_dialog_content" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ã´Íýÿÿÿÿ
+€
+java:S3008:"jRename this field "color_picker_advanced_component" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ç÷Þ
+U
+java:S11186":Add a private constructor to hide the implicit public one.(üŸµäûÿÿÿÿ
+x
+java:S3008="bRename this field "color_button_background" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÀÃ’
+ƒ
+java:S3008>"nRename this field "color_picker_advanced_select_handle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾©èR
+U
+java:S1118<":Add a private constructor to hide the implicit public one.(»Êõ”üÿÿÿÿ
+y
+java:S3008A"^Rename this field "AutofillPopupWindow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±’¨„üÿÿÿÿ
+U
+java:S1118@":Add a private constructor to hide the implicit public one.(ªì‹îúÿÿÿÿ
+|
+java:S3008D"fRename this field "autofill_dark_divider_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÊê·
+w
+java:S3008E"aRename this field "autofill_divider_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Üï¹
+z
+java:S3008F"dRename this field "color_picker_border_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§¯„
+U
+java:S1118C":Add a private constructor to hide the implicit public one.(Ä±†¬úÿÿÿÿ
+z
+java:S3008I"_Rename this field "autofill_text_height" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä†öÿÿÿÿÿ
+‚
+java:S3008J"gRename this field "autofill_text_divider_height" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ãÍŸýÿÿÿÿ
+t
+java:S3008K"^Rename this field "color_button_height" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý‚òÎ
+U
+java:S1118H":Add a private constructor to hide the implicit public one.(ÙÁöŠûÿÿÿÿ

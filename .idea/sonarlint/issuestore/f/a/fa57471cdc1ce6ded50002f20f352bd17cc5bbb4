@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+G
+java:S1905T",Remove this unnecessary cast to "Spannable".(Àßÿÿÿÿÿ
+h
+java:S3252\"MUse static access with "android.text.Spanned" for "SPAN_INCLUSIVE_INCLUSIVE".(Ô­©êıÿÿÿÿ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(± áâ
+R	java:S125Ì"<This block of commented-out lines of code should be removed.(ÏÆ
+˜
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÎÌ

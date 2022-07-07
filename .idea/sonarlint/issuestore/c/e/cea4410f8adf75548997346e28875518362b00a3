@@ -1,0 +1,30 @@
+
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÄý¾
+o
+java:S1192Á"SDefine a constant instead of duplicating this literal "getErrorString(): " 3 times.(½éõ×øÿÿÿÿ
+D
+java:S1604–"(Make this anonymous inner class a lambda(¡ßˆÄøÿÿÿÿ
+f
+java:S1301~"KReplace this "switch" statement by "if" statements to increase readability.(ýÞ³‹ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´×ìÖøÿÿÿÿ
+J
+java:S1874z"/Remove this use of "Handler"; it is deprecated.(Ÿ¹®Üûÿÿÿÿ
+H
+java:S1135£"2Complete the task associated to this TODO comment.(ýÒ»
+]
+java:S1126¨"AReplace this if-then-else statement by a single return statement.(ŠÚƒœùÿÿÿÿ
+N
+java:S1135è"2Complete the task associated to this TODO comment.(çÕêÖÿÿÿÿÿ
+N
+java:S1135ú"2Complete the task associated to this TODO comment.(¶‘Š´ýÿÿÿÿ
+\
+java:S2147³"ECombine this catch with the one at line 816, which has the same body.(ýàÑÎ
+X
+java:S3878¯"ADisambiguate this call by either casting as "Class" or "Class[]".(ÜŸâÙ
+\
+java:S2147Â"ECombine this catch with the one at line 832, which has the same body.(Å¡ß
+\
+java:S2147Ä"ECombine this catch with the one at line 832, which has the same body.(åþáÿ
